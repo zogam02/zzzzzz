@@ -1,1 +1,3 @@
-console.log("헬로")
+for(var i=0;i<3;i++){
+  console.log("헬로")
+}
